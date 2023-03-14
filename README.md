@@ -1,2 +1,2 @@
-# project
-dadawdwaw
+# That project from my course JavaScript
+
